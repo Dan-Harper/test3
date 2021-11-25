@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.220483dc.chunk.css",
-    "main.js": "/static/js/main.88161a6f.chunk.js",
-    "main.js.map": "/static/js/main.88161a6f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.73639550.js",
-    "runtime-main.js.map": "/static/js/runtime-main.73639550.js.map",
-    "static/js/2.61dc4360.chunk.js": "/static/js/2.61dc4360.chunk.js",
-    "static/js/2.61dc4360.chunk.js.map": "/static/js/2.61dc4360.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.220483dc.chunk.css.map": "/static/css/main.220483dc.chunk.css.map",
-    "static/js/2.61dc4360.chunk.js.LICENSE.txt": "/static/js/2.61dc4360.chunk.js.LICENSE.txt",
-    "static/media/investing.svg": "/static/media/investing.3fe5bfe2.svg",
-    "static/media/investmentdata.svg": "/static/media/investmentdata.0f4be9a3.svg",
-    "static/media/segmentanalysis.svg": "/static/media/segmentanalysis.e7f525a8.svg",
-    "static/media/video.af6f522a.mp4": "/static/media/video.af6f522a.mp4",
-    "static/media/visualdata.svg": "/static/media/visualdata.2e44687a.svg"
+    "main.css": "/test3/static/css/main.220483dc.chunk.css",
+    "main.js": "/test3/static/js/main.132e2328.chunk.js",
+    "main.js.map": "/test3/static/js/main.132e2328.chunk.js.map",
+    "runtime-main.js": "/test3/static/js/runtime-main.5a027b7a.js",
+    "runtime-main.js.map": "/test3/static/js/runtime-main.5a027b7a.js.map",
+    "static/js/2.dfca53d9.chunk.js": "/test3/static/js/2.dfca53d9.chunk.js",
+    "static/js/2.dfca53d9.chunk.js.map": "/test3/static/js/2.dfca53d9.chunk.js.map",
+    "index.html": "/test3/index.html",
+    "static/css/main.220483dc.chunk.css.map": "/test3/static/css/main.220483dc.chunk.css.map",
+    "static/js/2.dfca53d9.chunk.js.LICENSE.txt": "/test3/static/js/2.dfca53d9.chunk.js.LICENSE.txt",
+    "static/media/investing.svg": "/test3/static/media/investing.3fe5bfe2.svg",
+    "static/media/investmentdata.svg": "/test3/static/media/investmentdata.0f4be9a3.svg",
+    "static/media/segmentanalysis.svg": "/test3/static/media/segmentanalysis.e7f525a8.svg",
+    "static/media/video.af6f522a.mp4": "/test3/static/media/video.af6f522a.mp4",
+    "static/media/visualdata.svg": "/test3/static/media/visualdata.2e44687a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.73639550.js",
-    "static/js/2.61dc4360.chunk.js",
+    "static/js/runtime-main.5a027b7a.js",
+    "static/js/2.dfca53d9.chunk.js",
     "static/css/main.220483dc.chunk.css",
-    "static/js/main.88161a6f.chunk.js"
+    "static/js/main.132e2328.chunk.js"
   ]
 }
